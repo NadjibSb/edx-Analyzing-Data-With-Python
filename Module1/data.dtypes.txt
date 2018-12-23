@@ -1,0 +1,12 @@
+$$ data.dtypes:
+
+ Sell           int64
+ "List"        int64
+ "Living"      int64
+ "Rooms"       int64
+ "Beds"        int64
+ "Baths"       int64
+ "Age"         int64
+ "Acres"     float64
+ "Taxes"       int64
+dtype: object
